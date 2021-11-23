@@ -4,7 +4,7 @@ public class Home_work_2 {
     public static void main (String[] args) {
         System.out.println(method_1(7, 2));
         method_2(-5);
-        System.out.println(method_3(-7));
+        System.out.println(method_3(7));
         method_4("Привет", 7);
         System.out.println(method_5 (4));
 
